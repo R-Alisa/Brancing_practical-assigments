@@ -17,6 +17,7 @@ public class Main {
 
     static void PracticalTask1() {
 
+         System.out.println("Hello!");
         Scanner input = new Scanner(System.in);
         System.out.print("Please write first number: ");
         int num1 = input.nextInt();
